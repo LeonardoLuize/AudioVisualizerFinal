@@ -48,7 +48,7 @@
     <a target="_new" href="https://github.com/Kovalski-rgb">André Kovalski</a>
   </li>
   <li>
-    <p>Pedro Henrique Mess Dubberstein Oviedo Ferreira</p>
+    <a target="_new" href="https://github.com/oiaute">Pedro Henrique Mess Dubberstein Oviedo Ferreira</a>
   </li>
   <li>
     <p>Mikael Da Silva Sirqueira</p>
