@@ -1,0 +1,20 @@
+
+Audio visualizer é um programa para mostrar algumas interações que o áudio 
+pode ter no processing.
+
+Caso o usuário não tenha webcam será necessario que comente a 
+linha 34 do arquivo MAIN, caso tenha não precisa alterar nada.
+
+Por meio de um problema com as bibliotecas de video e p3d, tiramos 
+um comando que fazia o shapes 3 funcionar como foi planejado, 
+para visualizar o shapes 3 corretamente ative o comando da 
+linha 32.
+
+
+
+As bibliotecas de áudio utilizadas foram a minim e a sound(exemplo shapes 3)
+
+As interações de play e pause não funcionam no exemplo shapes 3 pois
+como foi utilizado o sound nesse exemplo ele teve um pouco de 
+conflito com os demais exemplos.
+
