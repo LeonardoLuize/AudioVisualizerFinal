@@ -54,6 +54,6 @@
     <p>Mikael Da Silva Sirqueira</p>
   </li>
   <li>
-    <p>Rodrigo Alves Bolincenha</p>
+    <a target="_new" href="https://github.com/Rodgs2010">Rodrigo Alves Bolincenha</a>
   </li>
 </ul>
