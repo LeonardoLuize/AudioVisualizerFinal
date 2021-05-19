@@ -28,8 +28,8 @@ boolean soundPlay = false; //serve pra ser se a musica do SOUND ta tocando
 int corner = 5;
 
 void setup() {
-  size(700, 700);
-  //size(700, 700, P3D); // Ativar para ver o shapes 3 corretamente
+  size(700, 700); //comentar esse e descomentar o de baixo para ver o shapes 3 corretamente
+  //size(700, 700, P3D); //comentar esse e descomentar o de cima para ver o video corretamente
   background(#7F00FF);
   //capture = new Capture(this, 700, 600); //ativar para funcionar a parte de video
 
