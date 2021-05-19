@@ -51,7 +51,7 @@
     <a target="_new" href="https://github.com/oiaute">Pedro Henrique Mess Dubberstein Oviedo Ferreira</a>
   </li>
   <li>
-    <p>Mikael Da Silva Sirqueira</p>
+    <a target="_new" href="https://github.com/MikaeldaSilvaS">Mikael Da Silva Sirqueira</a>
   </li>
   <li>
     <a target="_new" href="https://github.com/Rodgs2010">Rodrigo Alves Bolincenha</a>
